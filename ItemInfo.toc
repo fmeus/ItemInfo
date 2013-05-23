@@ -1,0 +1,10 @@
+## Interface: 40200
+## Title: ItemInfo
+## Version: 0.2
+## Author: fmeus
+## X-Email: wowaddon@xs4all.nl
+## Notes: Add item details to tooltips when holding down the shift key
+## DefaultState: enabled
+## Revision: $Id: ItemInfo.toc 772 2013-02-05 15:32:54Z fmeus_lgs $
+
+ItemInfo.lua
