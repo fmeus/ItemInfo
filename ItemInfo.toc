@@ -1,6 +1,6 @@
 ## Interface: 50300
 ## Title: ItemInfo
-## Version: 0.3
+## Version: 0.4
 ## Author: fmeus
 ## Notes: Add item details to tooltips when holding down the shift key
 ## DefaultState: enabled
