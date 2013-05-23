@@ -1,8 +1,3 @@
---[[ =================================================================
-    Revision:
-        $Id: ItemInfo.lua 772 2013-02-05 15:32:54Z fmeus_lgs $
-    ================================================================= --]]
-
 -- Local variables
    local ItemInfo = { Hooks = { OnTooltipSetItem = {}, OnTooltipCleared = {} } };
 
