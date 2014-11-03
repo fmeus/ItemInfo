@@ -66,7 +66,6 @@
         ItemInfo:HookTooltip( ItemRefTooltip );
         ItemInfo:HookTooltip( ShoppingTooltip1 );
         ItemInfo:HookTooltip( ShoppingTooltip2 );
-        ItemInfo:HookTooltip( ShoppingTooltip3 );
     end;
     
 -- Load the addon
